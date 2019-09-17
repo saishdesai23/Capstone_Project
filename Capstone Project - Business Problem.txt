@@ -1,0 +1,13 @@
+A guide to explore to new place for stay 
+
+When a person shifts to an unknown place for living,
+he/she has to search for multiple things needed for 
+a stay in that place. For a daily routine the person 
+needs to be aware for all the spots in his/her locality.
+Some precise and consildated data has to be collected
+to recommend some important spots in the locality to the 
+person for him to get settled in the new locality. This data can 
+be in terms of stay, food, entertainment spots etc. So this project 
+involves developement of a recommendation system for important 
+spots in a locality working as a guide for a person newly settled in the
+locality 
